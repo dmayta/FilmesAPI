@@ -52,14 +52,14 @@ namespace FIlmesAPI.Controllers
         [HttpPut("{id}")]
         public IActionResult AtualizarFilme(int id, [FromBody] UpdateFilmeDTO filmeDto) //FromBody - significa que vem do corpo da requisição
         {
-            Filme recuperarFilme = _context.Filmes.FirstOrDefault(filme => filme.Id == id);
+            Filme filme = _context.Filmes.FirstOrDefault(filme => filme.Id == id);
 
-            if (recuperarFilme == null)
+            if (filme == null)
             {
                 return NotFound();
             }
 
-            _mapper.Map(filmeDto, recuperarFilme);
+            _mapper.Map(filmeDto, filme);
             _context.SaveChanges();
             return NoContent();
         }

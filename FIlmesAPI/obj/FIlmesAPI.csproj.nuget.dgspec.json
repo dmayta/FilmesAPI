@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Diego\\source\\repos\\FIlmesAPI\\FIlmesAPI\\FIlmesAPI.csproj": {}
+    "C:\\Users\\Diego\\OneDrive\\Desktop\\Projeto-GIT\\FilmesAPI\\FIlmesAPI\\FIlmesAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Diego\\source\\repos\\FIlmesAPI\\FIlmesAPI\\FIlmesAPI.csproj": {
+    "C:\\Users\\Diego\\OneDrive\\Desktop\\Projeto-GIT\\FilmesAPI\\FIlmesAPI\\FIlmesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diego\\source\\repos\\FIlmesAPI\\FIlmesAPI\\FIlmesAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Diego\\OneDrive\\Desktop\\Projeto-GIT\\FilmesAPI\\FIlmesAPI\\FIlmesAPI.csproj",
         "projectName": "FIlmesAPI",
-        "projectPath": "C:\\Users\\Diego\\source\\repos\\FIlmesAPI\\FIlmesAPI\\FIlmesAPI.csproj",
+        "projectPath": "C:\\Users\\Diego\\OneDrive\\Desktop\\Projeto-GIT\\FilmesAPI\\FIlmesAPI\\FIlmesAPI.csproj",
         "packagesPath": "C:\\Users\\Diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diego\\source\\repos\\FIlmesAPI\\FIlmesAPI\\obj\\",
+        "outputPath": "C:\\Users\\Diego\\OneDrive\\Desktop\\Projeto-GIT\\FilmesAPI\\FIlmesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
